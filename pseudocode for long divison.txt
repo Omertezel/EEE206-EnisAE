@@ -1,3 +1,4 @@
 define Inputnumber1 %number that will be divided by divider
 define Inputnumber2 %number that will be the divider
 define Output %the result we get from the division
+changes
